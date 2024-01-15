@@ -14,9 +14,8 @@ This repository hosts supporting information, open source software and hardware 
 
 # Open Hardware
 
-The parts list necessary to build an OPTImAL instrument is provided.
-
-The CAD files for the custom machined parts can be viewed here: https://cad.onshape.com/documents/29b18afba06a1e6f7f11100a/w/7d93bd290cc3f84978532b01/e/f7a4702eb76a76c7533783dd
+The parts list necessary to build an OPTImAL instrument is provided, here, and the CAD files for the custom machined parts are provided [here](OPTImAL CAD).
+We are licensing the core mechanical components under under the permissive version of the CERN Open Hardware License Version 2 (https://ohwr.org/cern_ohl_p_v2.pdf), including the component designs hosted on this repository. We do not wish to restrict users in their ability to utilise these components and, as well as supporting the assembly of open instrumentation, these components can be used with closed-source and proprietary technologies.
 
 # Image Acquisition
 

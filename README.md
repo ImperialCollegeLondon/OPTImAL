@@ -26,7 +26,7 @@ Micro-Manager uses the Lesser GPL license (https://www.gnu.org/licenses/lgpl-3.0
 
 We also provide a sinogram checker macro for [ImageJ](imagej.net), licensed under the BSD 2-clause license (https://opensource.org/license/bsd-2-clause/).
 
-Our OPT imaging protocol can be dowloaded here: [OPT_Imaging_Protocol.pdf](https://github.com/ImperialCollegeLondon/OPTImAL/files/13943130/OPT_Imaging_Protocol.pdf)
+For guidance in performing OPT measurements, our OPT imaging protocol can be dowloaded [here](https://github.com/ImperialCollegeLondon/OPTImAL/files/13943130/OPT_Imaging_Protocol.pdf)
 
 # Volumetric Image Reconstruction
 

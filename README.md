@@ -1,11 +1,11 @@
 # OPTImAL
 _'OPT system Implemented for Accessibility and Low-cost'_
 
--[Overview](#overview)
--[Open Hardware](#open-hardware)
--[Image Acquisition](#image-acquisition)
--[Volumetric Image Reconstruction](#volumetric-image-reconstruction)
--[Fan beam reconstruction for focal scanning OPT](#fan-beam-reconstruction-for-focal-scanning-opt)
+- [Overview](#overview)
+- [Open Hardware](#open-hardware)
+- [Image Acquisition](#image-acquisition)
+- [Volumetric Image Reconstruction](#volumetric-image-reconstruction)
+- [Fan beam reconstruction for focal scanning OPT](#fan-beam-reconstruction-for-focal-scanning-opt)
 
 
 # Overview

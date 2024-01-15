@@ -1,3 +1,6 @@
 [submodule "OPTtools"]
 	path = OPTtools
 	url = https://github.com/cjd12/OPTtools.git
+[submodule "OPT for MM2 Gamma"]
+	path = OPT for MM2 Gamma
+	url = https://github.com/imperial-photonics/OPT_MM2Gamma.git
